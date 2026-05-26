@@ -1,0 +1,6 @@
+{
+  "name": "Kimi Druženje",
+  "description": "Najmodernija aplikacija za druženje i upoznavanje sa naprednim administratorskim opcijama i čat sistemom poput Messengera.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
